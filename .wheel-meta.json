@@ -1,0 +1,22 @@
+{
+  "wheel_id": 571,
+  "structure": "umbrella",
+  "slug": "financebrokerbrisbane-102",
+  "project": "home-loan-brokers-brisbane-eligibility-144e5a0f491619c9403feb6f",
+  "parent_t1_ref": "financebrokerbrisbane-150",
+  "node_role": "feeder",
+  "money_target": "financebrokerbrisbane.com.au",
+  "primary_kw": "home loan brokers brisbane eligibility",
+  "intended_url": "http://home-loan-brokers-brisbane-eligibility-144e5a0f491619c9403feb6f.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "ddc149fa96458002",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/home-loan-brokers-brisbane-before-you-start-1fcb0025ffeed097/",
+      "anchor": "https://vercel-cloudsites-hub.vercel.app/sites-01/home-loan-brokers-brisbane-before-you-start-1fcb0025ffeed097/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
